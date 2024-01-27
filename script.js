@@ -36,6 +36,6 @@ tl.from("h5", {
 tl.to("h5", {
      y: 40,
      repeat: -1,
-    duration: 0.8,
+    duration: 0.7,
     yoyo:true
 })
